@@ -2,7 +2,6 @@
 
 [kidskoding.com](https://www.kidskoding.com/) is a startup created by [kidskoding](https://github.com/kidskoding) 
 aimed to make Computer Science and a programming education accessible to everybody around the world!
-
 <!--
 
 **Here are some ideas to get you started:**
